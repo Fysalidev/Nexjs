@@ -3,7 +3,7 @@ export default async function getUserPosts(userId: string) {
     `https://jsonplaceholder.typicode.com/posts?userId=${userId}`, {next: {revalidate: 60}}
   );
 
-  if (!res.ok) return undefined
+  if (!res.ok) return undefined;
 
   return res.json();
 }
