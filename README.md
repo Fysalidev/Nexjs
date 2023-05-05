@@ -1,6 +1,6 @@
 # Next.js
 
-Folders :
+## Folders :
 
 01 | Starting Next.js
 
@@ -24,5 +24,6 @@ Folders :
 
 11 | Mutating Data
 
+## Ressources :
 Playlist :
 https://www.youtube.com/playlist?list=PL0Zuz27SZ-6Pk-QJIdGd1tGZEzy9RTgtj
